@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Walmart Voice Convergee</string>
+    <string name="say_or_type_a_product_e_g_snacks_milk">Say or type a product (e.g. snacks, milk)</string>
+    <string name="results_will_appear_here">Results will appear here...</string>
+    <string name="say_or_type_a_product_e_g_milk_bbq">Say or type a product (e.g. milk, bbq)</string>
+    <string name="speak">🎤 Speak</string>
+    <string name="get_recommendations">🔍 Get Recommendations</string>
+
+    <string name="voice_search">Voice Search</string>
+    <string name="search">Search</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="like">Like</string>
+    <string name="dislike">Dislike</string>
+
+
+</resources>
